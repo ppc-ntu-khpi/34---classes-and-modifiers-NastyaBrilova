@@ -51,4 +51,7 @@ public class Customers {
 
 ```
 ## Done 
-![]()
+![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-NastyaBrilova/blob/main/Solution/done.PNG)
+
+## Advanced
+![](https://github.com/ppc-ntu-khpi/34---classes-and-modifiers-NastyaBrilova/blob/main/Solution/advanced.PNG)
